@@ -1,0 +1,2 @@
+# instamode
+instamode
